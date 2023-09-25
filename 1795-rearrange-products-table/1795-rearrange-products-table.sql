@@ -9,3 +9,5 @@ UNION
 SELECT product_id, 'store3' AS store, store3 AS price FROM Products WHERE store3 IS NOT NULL
 
 # Repeat
+
+# 'store_n' dijadikan string karena pada output diminta masing-masing store disimpan pada kolom store
